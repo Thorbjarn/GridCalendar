@@ -1,1 +1,15 @@
+.kalender {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
 
+}
+
+.datum {
+  background-color: #604E4E;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+
+
+}
